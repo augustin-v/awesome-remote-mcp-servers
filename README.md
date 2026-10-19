@@ -2909,6 +2909,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Small Business Intelligence](https://brickandmortar.dev/connect/) `https://brickandmortar.dev/mcp`
   [![Small Business Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.2016judea/small-business-intelligence)
   🔓 - Free Twin Cities public records, parcels, sales, permits and licences, joined and queryable, plus research frameworks.
+- [Tenantback](https://tenantback.com) `https://tenantback.com/mcp`
+  [![Tenantback MCP connector](https://glama.ai/mcp/connectors/com.tenantback/cam-audit/badges/score.svg)](https://glama.ai/mcp/connectors/com.tenantback/cam-audit)
+  🔓 - Audits a landlord's CAM reconciliation against the commercial lease; cites the clause behind each overcharge.
 - [TrueFixR + AtlasCast](https://atlasunited.io/api) `https://mcp.atlasunited.io/mcp`
   [![TrueFixR + AtlasCast MCP connector](https://glama.ai/mcp/connectors/io.github.truefixr/atlascast-truefixr/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.truefixr/atlascast-truefixr)
   🔓 - Address-level storm event data and forecasted property risk API for AI agents.
